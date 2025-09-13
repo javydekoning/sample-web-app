@@ -5,3 +5,7 @@ A lightweight TypeScript web server designed for demonstrating Kubernetes, Amazo
 ## Overview
 
 Simple HTTP server that returns detailed JSON information about incoming requests, server environment, and system details. Used for testing and demonstrating various Kubernetes networking concepts, load balancing behavior, and container orchestration features.
+
+## Instructions
+
+Set environment variable `BG_COLOR` to change the background color of the rendered page.
