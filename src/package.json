@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Javy de Koning",
   "dependencies": {
-    "pino-http": "^10.5.0",
+    "pino-http": "^11.0.0",
     "pretty-print-json": "3.0.5",
     "ts-node": "^10.9.2"
   },
